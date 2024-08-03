@@ -45,7 +45,7 @@ See MIT Licence for further details.
 pragma solidity >= 0.8.25;
 
 
-library LibTranMem {
+library LibTransMem {
 
     function get(uint256 slot) internal view returns (uint256 val)
     {
